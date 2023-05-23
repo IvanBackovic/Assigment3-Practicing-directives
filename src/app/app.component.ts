@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'assigment3-practicing-directives';
+  showSecret = false;
 }
